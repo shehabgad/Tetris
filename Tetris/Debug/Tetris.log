@@ -1,0 +1,8 @@
+﻿  Tetris.cpp
+C:\Users\dell\source\repos\Tetris\Tetris\Tetris.cpp(378,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\Tetris\Tetris\Tetris.cpp(442,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\Tetris\Tetris\Tetris.cpp(551,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\Tetris\Tetris\Tetris.cpp(582,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\Tetris\Tetris\Tetris.cpp(699,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dell\source\repos\Tetris\Tetris\Tetris.cpp(313): warning C4715: 'Piece::HeighlightPiece': not all control paths return a value
+  Tetris.vcxproj -> C:\Users\dell\source\repos\Tetris\Debug\Tetris.exe
